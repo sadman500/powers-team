@@ -109,7 +109,7 @@ CorrectPassword = "Power's TEAM"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m🔐 \x1b[1;91mTool Usr \x1b[1;91m»» \x1b[1;93m")
-    if (username == Pt - Special Cyber Force):
+    if (username == Pt special Cyber Force):
     	password = raw_input("\033[1;94m🔐 \x1b[1;91mTool Pass \x1b[1;91m»» \x1b[1;92m")
         if (password == Powers Team):
             print "Logged in successfully as " + username #Dev:Farhan
